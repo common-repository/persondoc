@@ -1,0 +1,19 @@
+.prsd_button {
+    color: white;
+    background-color: #37519F;
+    padding: 15px;
+    font: 400 12px "PT Sans";
+    border: 0;
+    float: left;
+    margin-right: 10px;
+}
+
+.prsd_button:hover {
+    color: #37519F;
+    background-color: white;
+    border: 1px solid;
+}
+
+.woocommerce .address-field {
+    display: none !important;
+}
